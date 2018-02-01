@@ -48,3 +48,8 @@ arguments:
 * *extract_imagenet.py* - create pictures from pickle
 
 * *get_samples.py* - use pretrained generator to get samples from noise
+
+
+![alt text](https://github.com/Annusha/dcgan/blob/master/images/means.png)
+
+![alt text](https://github.com/Annusha/dcgan/blob/master/images/A_B.png)
