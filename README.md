@@ -40,7 +40,11 @@ arguments:
 ```
 
 main.py - train dcgan
+
 arithmetic.py - create some new images applying "image arithmetic"
+
 classifier_svm.py - without flag --train_svm just create and store features, with - download features and train svm. Metrics: accuracy for the whole dataset, precision and recall for each class.
+
 extract_imagenet.py - create pictures from pickle
+
 get_samples.py - use pretrained generator to get samples from noise
