@@ -1,8 +1,9 @@
-conference_room/
+conference_room/*
 __*
 *.png
+!/images/*.png
 *.zip
 *food_101
-.*
+.idea/*
 !/.gitignore
 *.pkl
