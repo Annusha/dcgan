@@ -3,9 +3,11 @@
 Implementation  on pytorch.
 
 code based on https://github.com/soumith/dcgan.torch and https://github.com/pytorch/examples/tree/master/dcgan
+
 original article: https://arxiv.org/abs/1511.06434
 
 used datasets: imagenet(32x32), lsun(conference_room), food-101
+
 required nvidia graphic card
 
 ### Usage
