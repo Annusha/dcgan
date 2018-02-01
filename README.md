@@ -9,6 +9,7 @@ used datasets: imagenet(32x32), lsun(conference_room), food-101
 required nvidia graphic card
 
 ### Usage
+```
 as default behaviour - training on lsun dataset
 usage: main.py [--dataset DATASET] [--dataroot DATAROOT] [--workers WORKERS]
                [--batchSize BATCHSIZE] [--imageSize IMAGESIZE] [--nz NZ]
@@ -36,6 +37,7 @@ arguments:
   --manualSeed SEED     manual seed
   --train_svm           enable train svm using saved features
   
+```
 
 main.py - train dcgan
 arithmetic.py - create some new images applying "image arithmetic"
